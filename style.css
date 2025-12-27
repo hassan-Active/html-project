@@ -1,0 +1,32 @@
+<style>
+            body{
+                background-color:whitesmoke;
+             }
+            h1,h2 {
+             color:red;
+             }
+             p {
+                color: black;
+                line-height: 1.6;
+             }
+             img {
+                max-height: 300px;
+                width: 150px;
+                border-radius: 80%;
+                
+             }
+             footer{
+                background-color: rgb(42, 165, 48);
+                color: black;
+                text-align: center;
+                padding: 10px;
+             }
+            a {
+                color: rgb(98, 43, 226);
+                
+            }
+            a:hover {
+                text-decoration: line-through;
+            }
+       
+        </style>
